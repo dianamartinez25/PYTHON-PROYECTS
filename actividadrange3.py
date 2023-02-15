@@ -1,6 +1,3 @@
-#TRABAJO HECHO EN CASA:
-    
-    
 # programa para gestionar los invitados de la fiesta
 fiesta=[]
 print("Estamos organizando los preparativos para la fiesta que daremos este fin de semana. A continuación os haremos unas preguntas: ")
