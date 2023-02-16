@@ -28,12 +28,8 @@ compras.insert(2,"zumo")
 #compras.insert(2,"limones")
 #print(compras)
 
-# Mostrar la lista en orden alfabético
-
-
-
-
-# Crear un tuple para controlar las estaciones del año. 
-# Mostrar “verano”
-# Mostrar toda la lista de estaciones
-
+# Mostrar la lista en orden alfabético (ORDENAR)
+# compras.sort()
+# print(compras)
+# compras.sort(reverse=True)
+# print(compras)
