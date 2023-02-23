@@ -13,5 +13,5 @@ texto = texto.replace("Python", "PYTHON")
 # 4: Quitar los espacios al inicio/final
 texto = texto.strip()
 # 5: Cambiar la letra de todo el texto a "lO MÁS IMPORTANTE QUE NOS HA MANTENIDO EN pYTHON... " - no usar replace
-# texto = (texto.upper())
+
 
