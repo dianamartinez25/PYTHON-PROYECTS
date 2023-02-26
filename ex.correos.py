@@ -20,24 +20,3 @@ for nombre in nombres:
 
 texto = ",".join(correos)
 print(texto)
-
-
-
-# - los dominios únicos (sin repetir el dominio)
-
-
-
-# con los nombres, generar un texto en format CSV con nuevos correos e.g maria@nazaret.eus,jon@nazaret.eus,david@nazaret.eus
-
-
-# print(dominios)
-
-# nombres = ("maria", "jon", "david")
-# DOMINIO = "@nazaret.eus"
-# correos = []
-# for nombre in nombres:
-#   correo = nombre + DOMINIO
-#   correos.append(correo)
-
-# texto = ",".join(correos)
-# print(texto)
