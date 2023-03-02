@@ -7,7 +7,6 @@ DORMIR = 0.30
 def superficie(n,m):
     return n * m 
 
-
 if __name__ == "__main__":
    l = float(input("Dame el largo: "))
    time.sleep(DORMIR)
