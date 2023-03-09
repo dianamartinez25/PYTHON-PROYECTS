@@ -27,4 +27,7 @@ class moto(vehiculo):
         print("Estoy conduciendo una moto")
 
 if __name__ == "__main__":
-    csm = vehiculo()
+    csm = moto("Honda", "Hornet", "diesel",90, 16, False, "2", "rojo")
+    mnd = vehiculo("Mazda", "6", "gasolina", 120, 60, True, "4", "negro")
+    csm.conducir()
+    mnd.conducir(f"{csm.modelo}")
